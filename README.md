@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
 ```js
-const ME = {
-  Tecnologies: {
+const me = {
+  Technologies: {
     JavaScript,
     React,
     TypeScript
