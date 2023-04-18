@@ -11,7 +11,8 @@ const me = {
   Tools:{
     Redux,
     Redux-Saga,
-    StyleComponents
+    StyleComponents,
+    NextJs
   }
 }
 ```
